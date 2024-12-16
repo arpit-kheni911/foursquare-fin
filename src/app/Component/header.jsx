@@ -141,7 +141,8 @@ function Header() {
                                                     </div>
                                                     <div class="ml-4">
                                                         <div className="flex gap-[5px]">
-                                                            <Link href={'../career'}><p className="text-[19px] font-[600] text-[#001F60]">Career</p></Link>
+                                                            {/* <Link href={'../career'}><p className="text-[19px] font-[600] text-[#001F60]">Career</p></Link> */}
+                                                            <p className="text-[19px] font-[600] text-[#001F60]">Career</p>
                                                             <span className="text-[12px] font-[600] text-[#8A4200] px-[10px] py-[2px] rounded-[8px]  bg-[#FFD74B] border border-[#8A4200]">We’re Hiring!</span>
                                                         </div>
                                                         <p className="text-[14px] font-[500] text-[#716789]">Streamlined financial management and forecasting.</p>
@@ -312,7 +313,8 @@ function Header() {
                                                 </div>
                                                 <div class="ml-4">
                                                     <div className="flex gap-[5px]">
-                                                        <Link href={'../career'}><p className="text-[19px] font-[600] text-[#001F60]">Career</p></Link>
+                                                        {/* <Link href={'../career'}><p className="text-[19px] font-[600] text-[#001F60]">Career</p></Link> */}
+                                                        <p className="text-[19px] font-[600] text-[#001F60]">Career</p>
                                                         <span className="text-[12px] font-[600] text-[#8A4200] px-[10px] py-[2px] rounded-[8px]  bg-[#FFD74B] border border-[#8A4200]">We’re Hiring!</span>
                                                     </div>
                                                     <p className="text-[14px] font-[500] text-[#716789]">Streamlined financial management and forecasting.</p>
