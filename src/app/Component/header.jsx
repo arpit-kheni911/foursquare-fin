@@ -342,6 +342,7 @@ function Header() {
                     <a href="/"><button className="text-white px-4 py-2 bg-[#001F60] hover:bg-[#0037b3] cursor-pointer MainButton">
                         Write a email
                     </button></a>
+                    
                 </div>
             </nav>
         </header>
